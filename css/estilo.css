@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fondo1{
+    position: relative;
+    width: 100%;
+
+    
+  
+    
+
+
+ }
+    
+header{
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    transition: 0.7s;
+    padding: 35px   5px;
+    z-index: 10;
+    }
+
+nav{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+a{
+    position: relative;
+    text-decoration: none;
+    margin: 0px 15px;
+    padding-top: 3%;
+    color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+
