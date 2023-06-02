@@ -5,17 +5,12 @@
 .fondo1{
     position: relative;
     width: 100%;
-
     
-  
-    
-
 
  }
     
 header{
-    
-    position: fixed;
+    background-color: aqua;
     top: 0;
     left: 0;
     width: 100%;
@@ -43,5 +38,13 @@ h1{
     justify-content: center;
 
 }
+.section2{
+    background-color: gray
+    
+}
 
+.titulo{
+    text-align: center;
+
+}
 
