@@ -53,6 +53,10 @@ h1{
 .section4{
     background-color: red;
 }
-.icon1{
-
+.section5{
+   background-color: blueviolet; 
+}
+footer{
+    background-color: rgba(rgb(27, 25, 25), rgb(15, 15, 15), rgb(17, 17, 19), alpha);
+    
 }
